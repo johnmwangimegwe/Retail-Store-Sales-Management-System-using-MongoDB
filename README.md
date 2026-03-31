@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <strong>Live Application:</strong> (Add your deployed link here)  
+  🌐 <a href="https://retail-store-sales-management-system-nrnfpdlac.vercel.app/" target="_blank"><strong>Live Application</strong></a>
 </p>
 
 ## 📸 Application Preview
